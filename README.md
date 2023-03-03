@@ -5,7 +5,7 @@
 
 #### ⚡ I do most of my work within the Dataverse however, I also plan to dabble in iOS development so look out for that!
 
-#### 📝 I regulary write articles about Data Analytics and you can find those here: www.tawandak.medium.com
+#### 📝 I regulary write articles about Data Analytics and you can find those here: www.medium.com/@tawandak
 
 #### 📬 You can also reach out to me via my email for any inquires: tawandalkamhuka@gmail.com 
 
