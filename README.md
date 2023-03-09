@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81173084/222777847-c3440dd8-1b6a-4959-9739-a513c928b307.gif">
 
-#### ⚡ I do most of my work within the Dataverse however, I also plan to dabble in iOS development so look out for that!
+#### ⚡ I do most of my work within the Dataverse (all things data) however, I also dabble in iOS development from time to time!
 
 #### 📝 I regulary write articles about Data Analytics and you can find those here: www.medium.com/@tawandak
 
