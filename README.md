@@ -5,8 +5,6 @@
 
 #### ⚡ I do most of my work within the Dataverse (all things data) however, I also dabble in iOS development from time to time!
 
-#### 📝 My portfolio: https://tawandak223.wixsite.com/my-site-1 
-
 #### 📬 You can also reach out to me via my email for any inquiries: tawandalkamhuka@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
